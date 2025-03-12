@@ -1,5 +1,6 @@
 ---
 title: Git
+nav_order: 2
 layout: home
 ---
 

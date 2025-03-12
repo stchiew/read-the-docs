@@ -1,8 +1,10 @@
-title: Just the Docs Template
+title: Read the Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://stchiew.github.io/read-the-docs/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  View GitHub Repository: https://github.com/stchiew/read-the-docs
+
+aux_links_new_tab: true
